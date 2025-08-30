@@ -315,9 +315,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: [your.email@domain.com]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐙 **GitHub**: [Your GitHub Profile]
+- 📧 **Email**: [hariharanvenkatraman23@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/hariharan-venkatraman-19994b178/]
+- 🐙 **GitHub**: [https://github.com/hariharan2302]
 
 ---
 
